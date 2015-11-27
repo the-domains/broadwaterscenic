@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BroadwaterScenic]]></title>
+        <description><![CDATA[BroadwaterScenic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 21:56:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eric Broadwater ]]></title>
+            <description><![CDATA[<article><h1>Eric Broadwater </h1><p>Scene Designer</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a6d7cbd-ef7f-4b59-91f8-5feaa6d3f4d6.png"></article>]]></description>
+            <link>undefinederic-broadwater/index.html</link>
+            <guid isPermaLink="false">4c92aac3-d130-45e6-8464-d8dcf1178314</guid>
+            <pubDate>Fri, 27 Nov 2015 21:56:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
