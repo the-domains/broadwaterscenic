@@ -1,6 +1,6 @@
 name: BroadwaterScenic
 favicon: null
-layout_spectrum: 0.96854
+layout_spectrum: 0.68915
 typography_spectrum: 0.34182
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#81413e'
+    - '#9f5e5c'
+    - '#cd9295'
+    - '#ebbbba'
   brandStrength: 0
-  lightness: 0.13150201155804098
-  saturation: 0.9957667128182948
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
