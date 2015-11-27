@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[BroadwaterScenic]]></title>
         <description><![CDATA[BroadwaterScenic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/broadwaterscenic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 Nov 2015 22:13:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 Nov 2015 22:14:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/broadwaterscenic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scene Painting]]></title>
+            <description><![CDATA[<article><h1>Scene Painting</h1><img src="https://static.wixstatic.com/media/acb420_227784d6155d4975864bb77bd61f67bd.png/v1/fill/w_572,h_424,al_c,usm_0.50_1.20_0.00,lg_1/acb420_227784d6155d4975864bb77bd61f67bd.png"></article>]]></description>
+            <link>http://www.broadwaterscenic.com/</link>
+            <guid isPermaLink="false">9da0ad48-fecc-4886-9df0-01752f18815e</guid>
+            <pubDate>Fri, 27 Nov 2015 22:13:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scene Designs]]></title>
             <description><![CDATA[<article><h1>Scene Designs</h1><img src="https://static.wixstatic.com/media/acb420_4b413ed03857435681c54fab3b79aba6.jpg/v1/fill/w_542,h_388,al_c,q_75,usm_0.50_1.20_0.00,lg_1/acb420_4b413ed03857435681c54fab3b79aba6.jpg"></article>]]></description>
