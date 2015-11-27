@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BroadwaterScenic]]></title>
+        <description><![CDATA[BroadwaterScenic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 27 Nov 2015 21:48:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://static.wixstatic.com/media/acb420_66c34f288f784d88947824520d17e7cb.jpg/v1/fit/w_864,h_559,q_75/acb420_66c34f288f784d88947824520d17e7cb.jpg">]]></description>
+            <link>undefined1260d6fc-05d7-4bb5-bf69-7fb869f86ccf/index.html</link>
+            <guid isPermaLink="false">1260d6fc-05d7-4bb5-bf69-7fb869f86ccf</guid>
+            <pubDate>Fri, 27 Nov 2015 21:47:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
