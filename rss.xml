@@ -4,7 +4,7 @@
         <description><![CDATA[BroadwaterScenic]]></description>
         <link>https://thegrid.ai/broadwaterscenic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 03:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 03:54:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/broadwaterscenic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/broadwaterscenic/857d00cc-62af-443f-94e0-42e74cb96c63/index.html</link>
             <guid isPermaLink="false">857d00cc-62af-443f-94e0-42e74cb96c63</guid>
             <pubDate>Fri, 04 Mar 2016 03:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two Gentlemen of Verona]]></title>
-            <description><![CDATA[<article><h1>Two Gentlemen of Verona</h1><p>Preliminary Design</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0815b5f708c272caaa3a5c0a39ae888f7bdc64cd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/broadwaterscenic/e52e156a-5d6c-438d-93e8-6441743f4b02/index.html</link>
-            <guid isPermaLink="false">e52e156a-5d6c-438d-93e8-6441743f4b02</guid>
-            <pubDate>Fri, 04 Mar 2016 03:51:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
